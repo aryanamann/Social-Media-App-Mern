@@ -13,7 +13,7 @@ const LoginPage = () => {
         textAlign={"center"}
       >
         <Typography fontWeight="bold" fontSize="32px" color="primary">
-          Sociopedia
+          ConnectVerse
         </Typography>
       </Box>
       <Box
@@ -29,7 +29,7 @@ const LoginPage = () => {
           sx={{ mb: "1.5rem" }}
           textAlign={"center"}
         >
-          Welcome To Sociopedia, the Social Media For Sociopaths !!
+          Welcome To ConnectVerse, the Social Media For Sociopaths !!
         </Typography>
         <Form />
       </Box>
